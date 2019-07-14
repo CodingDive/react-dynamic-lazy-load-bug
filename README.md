@@ -1,3 +1,10 @@
+# Reproduce bug
+```
+git clone https://github.com/ReasonableDeveloper/react-dynamic-lazy-load-bug.git && cd react-dynamic-lazy-load-bug
+yarn
+yarn start
+```
+
 # Issue description
 
 I'm always getting an error and warning when trying to dynamic lazy load the Button component.
